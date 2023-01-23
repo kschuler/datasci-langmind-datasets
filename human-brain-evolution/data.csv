@@ -1,0 +1,988 @@
+Species,Specimen,CC,Source,Age,Source
+Rudapithecus,RUD 77,326,Begun,9.85,Begun
+Rudapithecus,RUD 200,234,"Gunz et al., 2020",9.85,Begun
+Sahelanthropus,TM 266-01-060,365,Falk,7,
+Ar. ramidus,ARA-VP-6/500,300,"Suwa et al., 2009",4.400,"White et al., 2009"
+A. anamensis,MRD-VP-1/1,367,"Haile-Selassie et al., 2019",3.800,"Haile-Selassie et al., 2019"
+A. afarensis,AL 162-28,393,"Holloway, 1981",3.200,
+A. afarensis,AL 333-45,488,"Gunz et al., 2020",3.200,
+A. afarensis,AL 288-1,388,"Gunz et al., 2020",3.180,
+A. afarensis,AL 822-1,382,"Gunz et al., 2020",3.100,"Kimbel & Rak, 2010"
+A. afarensis,AL 444-2,522,"Gunz et al., 2020",3.000,
+A. africanus,MLD 1,510,"Holloway et al., 2004",2.650,
+A. africanus,MLD 37/38,430,"Holloway et al., 2004",2.650,
+A. aethiopicus,KNM-WT 17000,410,"Holloway et al., 2004",2.500,
+A. garhi,Bouri,450,"Holloway et al., 2004",2.500,
+A. boisei,Omo L388y-6,427,"Holloway et al., 2004",2.380,
+A. africanus,Stw 505,555,"Holloway et al., 2004",2.350,
+A. boisei,Omo 323-1976-896,490,"Brown et al., 1993",2.230,
+A. africanus,Sts 19/58,436,"Holloway et al., 2004",2.100,
+A. africanus,Sts 5,485,"Holloway et al., 2004",2.100,
+A. africanus,Sts 60,400,"Holloway et al., 2004",2.100,
+A. africanus,Sts 71,428,"Holloway et al., 2004",2.100,
+A. africanus,Type 2,457,"Holloway et al., 2004",2.100,
+A. robustus,DNH 155,450,"Martin et al., 2020",2.000,
+A. sediba,MH 1,420,"Berger et al., 2010",1.977,
+H. habilis,KNM-ER 1805,582,"Holloway et al., 2004",1.890,
+H. habilis,KNM-ER 1813,509,"Holloway et al., 2004",1.890,
+H. habilis,OH 24,597,"Tobias, 1991",1.880,
+H. rudolfensis,KNM-ER 1470,752,"Holloway et al., 2004",1.880,
+H. rudolfensis,KNM-ER 3732,750,"Holloway et al., 2004",1.880,
+A. boisei,KNM-ER 23000,491,"Brown et al., 1993",1.870,
+A. boisei,KNM-WT 13750,475,"Holloway et al., 2004",1.870,
+A. boisei,KNM-ER 407,510,"Holloway et al., 2004",1.850,
+H. rudolfensis,KNM-ER 1590,825,"Holloway et al., 2004",1.850,
+A. boisei,OH 5,523,"Holloway et al., 2004",1.820,
+H. habilis,OH 7,777,"Tobias, 1991",1.800,
+A. boisei,KNM-WT 17400,400,"Holloway et al., 2004",1.770,
+H. erectus,D2280,775,"Rightmire et al., 2006",1.770,"Rightmire et al., 2006"
+H. erectus,D2282,655,"Rightmire et al., 2006",1.770,"Rightmire et al., 2006"
+H. erectus,D2700,600,"Rightmire et al., 2006",1.770,"Rightmire et al., 2006"
+H. erectus,D3444,650,"Lordkipanidze et al., 2006",1.770,"Lordkipanidze et al., 2006"
+H. erectus,D5000,546,"Lordkipanidze et al., 2013",1.770,
+A. robustus,Drimolen,530,Schwartz & Tattersall,1.750,
+H. habilis,OH 16,638,"Tobias, 1991",1.670,
+A. robustus,SK 1585,530,"Holloway et al., 2004",1.650,
+H. erectus,KNM-ER 3733,848,"Holloway, 1981",1.630,"Feibel et al., 1989"
+H. erectus,Gongwang 1,780,"Holloway et al., 2004",1.630,"Zhu et al., 2015"
+H. erectus,Sangiran 4,908,"Holloway et al., 2004",1.620,"Indriati and Anton, 2010"
+H. habilis,OH 13,673,"Tobias, 1991",1.600,
+A. boisei,KNM-ER 406,500,"Holloway et al., 2004",1.580,
+A. boisei,KNM-ER 732,500,"Holloway et al., 2004",1.580,
+H. erectus,KNM-ER 3883,804,"Holloway et al., 2004",1.570,"Feibel et al., 1989"
+H. erectus,KNM-ER 42700,691,"Spoor et al., 2007",1.550,"Spoor et al., 2007"
+H. erectus,DAN5,598,"Semaw et al., 2020",1.550,"Semaw et al., 2020"
+H. erectus,Sangiran 38,850,"Indriati and Anton, 2010",1.520,"Indriati and Anton, 2010"
+H. erectus,KNM-WT 15000,880,"Begun & Walker, 1993",1.490,
+A. boisei,Konso,545,"Holloway et al., 2004",1.420,
+H. erectus,Sangiran 10,855,"Holloway et al., 2004",1.290,"Larick et al., 2001"
+H. erectus,Sangiran 12,1059,"Holloway et al., 2004",1.290,"Larick et al., 2001"
+H. erectus,Sangiran 2,813,"Holloway, 1981",1.290,"Larick et al., 2001"
+H. erectus,Sangiran 17,1004,"Holloway, 1981",1.290,"Larick et al., 2001"
+H. erectus,BSN12/P1,850,"Semaw et al., 2020",1.260,"Semaw et al., 2020"
+H. erectus,Grogol-Wetan (Gwn-1993.09),850,"Grimaud-Herve, pers comm",1.250,"Larick et al., 2001"
+H. erectus,OH 9,1067,"Holloway et al., 2004",1.250,
+H. erectus,Bukaran (SBK-1996.02),916,"Grimaud-Herve et al., 2012",1.250,"Larick et al., 2001"
+H. erectus,Sangiran IX,870,"Kaifu et al., 2011",1.250,"Larick et al., 2001"
+H. erectus,Buia,900,"Macciarelli et al., 2004",1.000,"Abbate et al., 1998"
+H. erectus,Daka,986,"Gilbert and Asfaw, 2008",1.000,"Asfaw et al., 2002"
+H. erectus,Yunxian,1050,"Vialet et al., 2010",0.936,"de Lumley et al., 2008"
+H. erectus,Trinil 2,940,"Holloway, 1981",0.900,"Anton, 2003"
+H. erectus,Sangiran 3,950,"Holloway et al., 2004",0.900,"Larick et al., 2001"
+H. heidelbergensis,Ceprano,1150,"Bruner and Manzi, 2005",0.850,"Bruner and Manzi, 2005"
+H. erectus,Zhoukodian Z10,1225,"Weidenreich, 1943",0.730,
+H. erectus,Zhoukodian Z-11,1015,"Weidenreich, 1943",0.730,
+H. erectus,Zhoukodian Z12,1030,"Weidenreich, 1943",0.730,
+H. erectus,Zhoukodian Z-2,1030,"Weidenreich, 1943",0.730,
+H. erectus,ZKD III,915,"Weidenreich, 1943",0.730,
+H. erectus,OH 12,727,"Holloway et al., 2004",0.700,
+H. erectus,Nanjing,876,"Liu et al., 2005",0.600,"Wu et al., 2011"
+H. heidelbergensis,Bodo,1250,"Conroy et al., 2000",0.600,
+H. erectus,Ngawi,870,"Holloway et al., 2004",0.500,
+H. heidelbergensis,Saldanha,1225,"Tobias, 1971",0.500,
+H. erectus,ZKD V,1140,"Wu et al., 2010",0.450,"Shen et al., 2009"
+H. heidelbergensis,Arago,1166,"Holloway et al., 2004",0.450,
+H. heidelbergensis,Atapuerca 4,1360,"Arsuaga et al., 2014",0.430,
+H. heidelbergensis,Atapuerca 5,1092,"Arsuaga et al., 2014",0.430,
+H. heidelbergensis,Atapuerca 2,1334,"Arsuaga et al., 2014",0.430,
+H. heidelbergensis,Atapuerca 7,1144,"Arsuaga et al., 2014",0.430,
+H. heidelbergensis,Atapuerca 10,1218,"Arsuaga et al., 2014",0.430,
+H. heidelbergensis,Atapuerca 12,1228,"Arsuaga et al., 2014",0.430,
+H. heidelbergensis,Atapuerca 13,1437,"Arsuaga et al., 2014",0.430,
+H. heidelbergensis,Atapuerca 15,1284,"Arsuaga et al., 2014",0.430,
+H. heidelbergensis,Atapuerca 16,1236,"Arsuaga et al., 2014",0.430,
+H. heidelbergensis,Atapuerca 17,1219,"Arsuaga et al., 2014",0.430,
+H. erectus,Hexian,1025,"Wu & Dong, 1982",0.412,"Grun et al., 1998"
+H. heidelbergensis,Ndutu,1100,"Holloway in Rightmire, 1983",0.400,
+H. heidelbergensis,Swanscombe,1325,"Holloway et al., 2004",0.300,
+H. sapiens,Jebel Irhoud 1,1305,"Holloway et al., 2004",0.3,
+H. sapiens,Jebel Irhoud 2,1400,"Holloway et al., 2004",0.3,
+H. heidelbergensis,Kabwe,1325,"Holloway et al., 2004",0.299,
+H. naledi,DH3/DH4,465,"Garvin et al., 2017",0.286,
+H. naledi,DH1/DH2,560,"Garvin et al., 2017",0.286,
+H. naledi,LES 1,610,"Hawks et al., 2017",0.286,
+H. heidelbergensis,Jinniushan,1390,"Holloway et al., 2004",0.280,
+H. heidelbergensis,Guomde,1400,"Holloway et al., 2004",0.272,"Brauer et al., 1997"
+H. neanderthalensis,Apidima 2,1454,"Harvarti et al., 2011",0.252,"Harvarti et al., 2011"
+H. neanderthalensis,Saccopastore 1,1174,"Bruner and Manzi, 2008",0.250,
+H. neanderthalensis,Saccopastore 2,1300,"Holloway et al., 2004",0.250,
+H. heidelbergensis,Sale,880,"Holloway et al., 2004",0.240,
+H. heidelbergensis,Narmada,1260,"Holloway et al., 2004",0.236,
+H. heidelbergensis,Ehringsdorf,1450,"Holloway et al., 2004",0.23,
+H. heidelbergensis,Steinheim,1140,"Prossinger et al., 2003",0.225,"Adam, 1985"
+H. heidelbergensis,Eliye Springs (KNM-ER 11693),1212,"Brauer et al., 1997",0.225,
+H. heidelbergensis,Petralona,1230,"Holloway et al., 2004",0.210,
+H. heidelbergensis,Dali,1120,"Holloway et al., 2004",0.209,
+H. neanderthalensis,Reilingen,1430,"Holloway et al., 2004",0.200,
+H. sapiens,Omo 2 (Kibbish),1435,"Holloway et al., 2004",0.195,CHECK
+H. neanderthalensis,Biache,1200,"Holloway et al., 2004",0.175,
+H. neanderthalensis,Fontechevade II,1350,"Holloway et al., 2004",0.160,
+H. sapiens,Herto,1450,"Holloway et al., 2004",0.160,
+H. neanderthalensis,La Chaise,1065,"Holloway et al., 2004",0.150,
+H. longi,Harbin,1420,"Ji et al., 2021",0.148,
+H. sapiens,Singa 1,1550,"Holloway et al., 2004",0.133,
+H. neanderthalensis,Lazaret,1250,"Holloway et al., 2004",0.13,
+H. neanderthalensis,Krapina 2,1450,"Holloway et al., 2004",0.130,
+H. neanderthalensis,Krapina 3,1255,"Holloway et al., 2004",0.130,
+H. neanderthalensis,Krapina 5,1535,"Caspari & Radovcic, 2006",0.130,
+H. neanderthalensis,Krapina 6 (Cranium E),1205,"Holloway et al., 2004",0.13,
+H. sapiens,Skhul 1,1450,"Holloway et al., 2004",0.130,
+H. sapiens,Skhul 4,1554,"Holloway et al., 2004",0.130,
+H. sapiens,Skhul 5,1520,"Holloway et al., 2004",0.130,
+H. sapiens,Skhul 9,1590,"Holloway et al., 2004",0.130,
+H. sapiens,Yinkou,1390,"Holloway et al., 2004",0.13,
+H. sapiens,Laetoli 18,1367,"Holloway et al., 2004",0.12,
+H. erectus,Xuchang 1,1800,"Li et al., 2017",0.115,
+H. erectus,Ngandong (Solo 9),1135,"Holloway et al., 2004",0.110,
+H. erectus,Ngandong 1,1172,"Holloway et al., 2004",0.110,
+H. erectus,Ngandong 13,1231,"Holloway et al., 2004",0.110,
+H. erectus,Ngandong 14,1090,"Holloway et al., 2004",0.110,
+H. erectus,Ngandong 6,1251,"Holloway et al., 2004",0.110,
+H. erectus,Ngandong 7,1028,"Balzeau et al., 2003",0.110,
+H. neanderthalensis,Tabun 1,1271,"Holloway et al., 2004",0.110,
+H. sapiens,Qafzeh 11,1280,"Holloway et al., 2004",0.110,
+H. sapiens,Qafzeh 6,1568,"Holloway et al., 2004",0.110,
+H. sapiens,Qafzeh 9,1531,"Holloway et al., 2004",0.110,
+H. neanderthalensis,Ganovce,1320,"Holloway et al., 2004",0.09,
+H. sapiens,Border Cave,1522,"Hughes, 1990",0.09,?
+H. neanderthalensis,La Ferrassie,1640,"Holloway et al., 2004",0.070,
+H. neanderthalensis,Teshik Tash,1525,"Holloway et al., 2004",0.070,
+H. neanderthalensis,Spy 1,1305,"Holloway et al., 2004",0.068,
+H. neanderthalensis,Spy 2,1553,"Holloway et al., 2004",0.068,
+H. sapiens,Liujiang,1480,"Phenice & Sauer, 1977",0.067,"Wu and Poirier, 1995"
+H. neanderthalensis,La Quina 18,1200,"Holloway et al., 2004",0.065,
+H. neanderthalensis,La Quina 5,1172,"Holloway et al., 2004",0.065,
+H. neanderthalensis,Engis 2,1362,"Holloway et al., 2004",0.06,
+H. neanderthalensis,Shanidar 1,1600,"Holloway et al., 2004",0.060,
+H. neanderthalensis,Shanidar 5,1550,"Holloway et al., 2004",0.06,
+H. floresiensis,LB1,419,Falk,0.06,
+H. erectus,Sambungmacan 1,1035,"Baba et al., 2003",0.055,
+H. erectus,Sambungmacan 3,917,"Broadfield et al., 2001",0.055,
+H. erectus,Sambungmacan 4,1006,"Baba et al., 2003",0.055,
+H. sapiens,Manot Cave,1100,"Hershkovitz et al., 2015",0.0547,
+H. neanderthalensis,Mt. Circeo,1360,"Holloway et al., 2004",0.052,
+H. neanderthalensis,Gibraltar,1200,"Holloway et al., 2004",0.050,
+H. neanderthalensis,Devils Tower,1400,"Holloway et al., 2004",0.050,
+H. neanderthalensis,La Chapelle,1625,"Holloway et al., 2004",0.050,
+H. sapiens,Ryonggok 3,1650,"Bae et al., 2010",0.047,"Keates, 2010"
+H. sapiens,Ryonggok 7,1450,"Bae et al., 2010",0.047,"Keates, 2010"
+H. neanderthalensis,Amud,1740,"Holloway et al., 2004",0.041,
+H. neanderthalensis,Le Moustier,1565,"Holloway et al., 2004",0.041,
+H. neanderthalensis,Neandertal,1525,"Holloway et al., 2004",0.040,
+H. sapiens,Liujiang,1567,"Wu et al., 2008",0.04,
+H. sapiens,Nazlet Khater 2,1420,"Holloway et al., 2004",0.0376,Holt
+H. sapiens,Hofmeyr,1580,"Grine et al., 2010",0.036,"Grine et al., 2007"
+H. sapiens,Wadjak 1,1464,"Coon, 1962",0.033,"Storm et al., 2013"
+H. sapiens,Wadjak 2,1650,many sources in Henn,0.033,"Storm et al., 2013"
+H. sapiens,Chatelperron (les Fees),1425,"Ivanhoe, 2010",0.033,"Ivanhoe, 2010"
+H. sapiens,Mladec 5,1650,"Holloway et al., 2004",0.032,
+H. sapiens,Jingchuan,1524,"HaiJun et al., 2010",0.0315,"HaiJun et al., 2010"
+H. sapiens,Mladec 2,1390,"Holloway et al., 2004",0.0313,Holt
+H. sapiens,Mladec 1,1540,"Holloway et al., 2004",0.0312,Holt
+H. sapiens,Ziyang,1210,"Phenice & Sauer, 1977",0.03,"Wu and Poirier, 1995"
+H. sapiens,Zhoukoudian (Upper Cave) 1,1500,"Holloway et al., 2004",0.029,Holt
+H. sapiens,Zhoukoudian (Upper Cave) 2,1380,"Holloway et al., 2004",0.029,Holt
+H. sapiens,Zhoukoudian (Upper Cave) 3,1290,"Holloway et al., 2004",0.029,Holt
+H. sapiens,Cioclovina,1499,"Kranioti et al., 2011",0.0285,Holt
+H. sapiens,Combe Capelle,1570,"Holloway et al., 2004",0.028,
+H. sapiens,Cro-Magnon 1,1730,"Holloway et al., 2004",0.0277,Holt
+H. sapiens,Cro-Magnon 2,1402,"Helmuth, 1999",0.0277,Holt
+H. sapiens,Cro-Magnon 3,1590,"Holloway et al., 2004",0.0277,Holt
+H. sapiens,Grotte des Infants 4,1775,"Holloway et al., 2004",0.0275,
+H. sapiens,Grotte des Infants 5,1375,"Holloway et al., 2004",0.0275,
+H. sapiens,Grotte des Infants 6,1580,"Holloway et al., 2004",0.0275,
+H. sapiens,Sungir 1,1464,"Holloway et al., 2004",0.0271,"Dobrovolskeya et al., 2012"
+H. sapiens,Dolni Vestonice 14,1538,"Franciscus & Vlcek, 2006",0.0266,Holt
+H. sapiens,Dolni Vestonice 13,1481,"Franciscus & Vlcek, 2006",0.0266,Holt
+H. sapiens,Dolni Vestonice 15,1378,"Franciscus & Vlcek, 2006",0.0266,Holt
+H. sapiens,Sungir 3,1361,"Holloway et al., 2004",0.026,"Dobrovolskeya et al., 2012"
+H. sapiens,Brno I,1600,"Holloway et al., 2004",0.026,
+H. sapiens,Brno III,1304,"Holloway et al., 2004",0.026,
+H. sapiens,Pavlov 1,1472,"Franciscus & Vlcek, 2006",0.026,Holt
+H. sapiens,Predmosti 10,1452,"Holloway et al., 2004",0.026,
+H. sapiens,Predmosti 3,1580,"Holloway et al., 2004",0.026,
+H. sapiens,Predmosti 4,1250,"Holloway et al., 2004",0.026,
+H. sapiens,Predmosti 9,1555,"Holloway et al., 2004",0.026,
+H. sapiens,Dolni Vestonice 3,1285,"Franciscus & Vlcek, 2006",0.026,Holt
+H. sapiens,WLH 50,1540,"Kubo and Kono, 2011",0.026,"Grun et al., 2011"
+H. sapiens,Dolni Vestonice 16,1547,"Franciscus & Vlcek, 2006",0.0256,Holt
+H. sapiens,Barma Grande II,1748,"Parenti, 1973",0.0248,Holt
+H. sapiens,Sungir 5,1453,"Holloway et al., 2004",0.024,
+H. sapiens,Veyrier 1,1430,"Holloway et al., 2004",0.024,
+H. sapiens,Kostenki 2,1605,"Holloway et al., 2004",0.0238,
+H. sapiens,Sungir 2,1267,"Holloway et al., 2004",0.0238,Holt
+H. sapiens,Brno II,1500,"Holloway et al., 2004",0.0237,Holt
+H. sapiens,Arene Candide 1-IP,1490,"Ruff et al., 1997",0.0234,Holt
+H. sapiens,Kostenki 14,1222,"Holloway et al., 2004",0.0228,
+H. sapiens,Mollet III,1521,"Soler et al., 2013",0.02233,"Soler et al., 2013"
+H. sapiens,Pataud 1,1380,"Holloway et al., 2004",0.022,Holt
+H. sapiens,Roc de Sers,1380,"Ivanhoe, 2010",0.01923,"Straus, 1986"
+H. sapiens,Roc de Sers,1485,"Ivanhoe, 2010",0.01923,"Straus, 1986"
+H. sapiens,Cohuna,1447,"Brown, website",0.019,"""Contemporary with Kow Swamp"" Wood"
+H. sapiens,Minatogawa 1,1335,"Kubo & Kono, 2011",0.0183,Holt
+H. sapiens,Minatogawa 2,1170,"Holloway et al., 2004",0.0183,Holt
+H. sapiens,Minatogawa 4,1170,"Kubo & Kono, 2011",0.0183,Holt
+H. sapiens,Le Placard,1300,"Ivanhoe, 2010",0.018,"Ivanhoe, 2010"
+H. sapiens,Rond-du-Barry 8,1515,"Ivanhoe, 2010",0.0171,Holt
+H. sapiens,"Taforalt, Algeria",1660,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1675,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1689,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1660,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1622,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1685,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1585,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1686,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1700,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1738,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1623,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1478,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1645,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1390,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1360,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1279,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1385,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taforalt, Algeria",1435,"Ferembach, 1965",0.0168,Holt
+H. sapiens,"Taza, Algeria",1125,"Meier et al., 2003",0.016,"Meier et al., 2003"
+H. sapiens,St. Germain-la-Rivie,1354,"Movius, 1975",0.0158,Holt
+H. sapiens,Bruniquel 2,1555,"Movius, 1975",0.0153,Holt
+H. sapiens,Chancelade,1530,"Holloway et al., 2004",0.0153,Holt
+H. sapiens,Cap Blanc 1,1434,"Movius, 1975",0.015,Holt
+H. sapiens,Coobool Creek,1413,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1387,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1324,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1281,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1444,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1483,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1437,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1541,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1502,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1302,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1538,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1444,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1397,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1463,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1511,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1441,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1305,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1225,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1256,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1324,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1470,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1117,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1371,"Brown, website",0.014,Brown  
+H. sapiens,Coobool Creek,1278,"Brown, website",0.014,Brown  
+H. sapiens,Mas d'Azil,1275,"Movius, 1975",0.014,"Ivanhoe, 2010"
+H. sapiens,San Teodoro 1,1565,"Holloway et al., 2004",0.014,"D'Amore et al., 2009"
+H. sapiens,San Teodoro 2,1569,"Holloway et al., 2004",0.014,"D'Amore et al., 2009"
+H. sapiens,San Teodoro 3,1560,"Holloway et al., 2004",0.014,"D'Amore et al., 2009"
+H. sapiens,San Teodoro 5,1484,"Holloway et al., 2004",0.014,"D'Amore et al., 2009"
+H. sapiens,"MLDG, China",1327,"Curnoe et al., 2012",0.0139,"Curnoe et al., 2012"
+H. sapiens,Les Hoteaux,1403,"Ivanhoe, 2010",0.013,"Ivanhoe, 2010"
+H. sapiens,Ortucchio 1,1302,"Ivanhoe, 2010",0.0126,Holt
+H. sapiens,Oberkassel 2,1370,"Movius, 1975",0.0122,Holt
+H. sapiens,Laugerie-Basse,1505,"Ivanhoe, 2010",0.012,"Ivanhoe, 2010"
+H. sapiens,Keilor,1497,"Brown, website",0.012,"Brown et al., 2010"
+H. sapiens,Arene Candide  1,1414,"Ruff et al., 1997",0.0118,Wood
+H. sapiens,Arene Candide 2,1424,"Ruff et al., 1997",0.0118,Wood
+H. sapiens,Arene Candide 4,1520,"Ruff et al., 1997",0.0118,Wood
+H. sapiens,Arene Candide 5,1661,"Ruff et al., 1997",0.0118,Wood
+H. sapiens,Le Bichon 1,1465,"Ivanhoe, 2010",0.0117,Holt
+H. sapiens,Oberkassel 1,1500,"Holloway et al., 2004",0.0116,Holt
+H. sapiens,"Afalou, Algeria",1672,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1520,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1700,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1577,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1713,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1630,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1530,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1672,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1584,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1774,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1716,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1536,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1486,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1597,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1519,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1475,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1266,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1291,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1604,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1249,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1630,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1697,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1316,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1581,"Vallois, 1952",0.0115,Holt
+H. sapiens,"Afalou, Algeria",1154,"Vallois, 1952",0.0115,Holt
+H. sapiens,Nacurrie,1597,"Brown, website",0.0114,"Brown et al., 2010"
+H. sapiens,Moča,1277.3,"Sefcakova et al., 2011",0.0113,"Sefcakova et al., 2011"
+H. sapiens,Cheix,1470,"Ivanhoe, 2010",0.011,"Ivanhoe, 2010"
+H. sapiens,Duruthy,1140,"Movius, 1975",0.011,"Ivanhoe, 2010"
+H. sapiens,Tuinplaas,1589,"Hughes, 1990",0.011,"Dusseldorp et al., 2013"
+H. sapiens,Naivasha,1453,"Tobias, 1971",0.01085,"Protsch, 1976"
+H. sapiens,"Aveline's Hole, Somerset",1450,"Palmer, 1959",0.0103,"Miles, 2003"
+H. sapiens,Mai Da Nuoc,1429.7,"Cuong, 1987",0.01,"Cuong, 1987"
+H. sapiens,Tepaxpan,1540,"Phenice & Sauer, 1977",0.01,"Phenice & Sauer, 1977"
+H. sapiens,Boskop,1650,"Tobias, 1971",0.01,?
+H. sapiens,Hotu 2,1404,"Angel, 1952",0.0093,"Coon, 1957"
+H. sapiens,Hotu 3,1440,"Angel, 1952",0.0093,"Coon, 1957"
+H. sapiens,Culoz I,1535,Ferembach 1974b,0.009,Evin et al 1971
+H. sapiens,Culoz II,1644,Ferembach 1974b,0.009,Evin et al 1971
+H. sapiens,"M4300, Bass Strait",1265,"Murray et al., 1982",0.009,"Murray et al., 1982"
+H. sapiens,Gamble's Cave 4,1470,"Tobias, 1971",0.0082,efossils
+H. sapiens,Gamble's Cave 5,1530,"Tobias, 1971; Leakey, 1935",0.0082,efossils
+H. sapiens,Gramat,1861,Ferembach 1974b,0.008,"Gruber et al., 2009"
+H. sapiens,Mai Da Dieu,1271,"Cuong, 1986",0.008,Matsumura
+H. sapiens,Teviec 8,1430,"Balzeau, PC",0.008,"Gruber et al., 2009"
+H. sapiens,Teviec 9,1420,"Balzeau, PC",0.008,"Gruber et al., 2009"
+H. sapiens,Teviec 16,1428,"Balzeau, PC",0.008,"Gruber et al., 2009"
+H. sapiens,Rastel,1682,Ferembach 1974b,0.0075,"Rozoy, 1978"
+H. sapiens,Song Terus,1570,"Balzeau, PC",0.0075,"Balzeau, 2013"
+H. sapiens,Fish Hoek 1,1600,"Drennen, 1929",0.0072,"Stynder et al., 2009"
+H. sapiens,"Haverty 5, CA",1380,"Brooks et al., 1990",0.007,"Brooks et al., 1990"
+H. sapiens,"Haverty 7, CA",1310,"Brooks et al., 1990",0.007,"Brooks et al., 1990"
+H. sapiens,Lake Nitchie,1510,"Brown, website",0.007,"Bulbeck & O'Connor, 2011"
+H. sapiens,Punin,1275,"Phenice & Sauer, 1977",0.007,"Brothwell & Burleigh, 1980"
+H. sapiens,Montclus,1687,Ferembach 1974b,0.007,Schute Im Walde et al 1986
+H. sapiens,Lansing,1537.5,"Hrdlicka, 1903",0.0055,"Bass, 1973"
+H. sapiens,"Columnata, Algeria",1351,"Chamla, 1970",0.0055,"Chamla, 1980"
+H. sapiens,"Columnata, Algeria",1498,"Chamla, 1970",0.0055,"Chamla, 1980"
+H. sapiens,"Columnata, Algeria",1426,"Chamla, 1970",0.0055,"Chamla, 1980"
+H. sapiens,Asselar,1520,"Tobias, 1971",0.005,"Phenice & Sauer, 1977"
+H. sapiens,"Hutton, Somerset",1415,"Palmer, 1959",0.005,"Palmer, 1959"
+H. sapiens,Urtiaga B,1579,Ferembach 1974b,0.0035,"Altua & de la Rua, 1989"
+H. sapiens,Urtiaga A,1510,Ferembach 1974b,0.0035,"Altua & de la Rua, 1989"
+H. sapiens,Sauveterre,1769,Ferembach 1974b,0.0034,"Smith, 1984"
+H. sapiens,Danes' Graves 1,1325,"Wright, 1903",0.00225,"Wright, 1903"
+H. sapiens,Danes' Graves 7,1325,"Wright, 1903",0.00225,"Wright, 1903"
+H. sapiens,"Glastonbury, Somerset ",1468,"Palmer, 1959",0.002,"Palmer, 1959"
+H. sapiens,Elmenteita B,1585,"Hughes, 1990",0.002,Hennenberg
+H. sapiens,"Langwith, Derbyshire",1250,"Gladstone, 1921",0.002,"Chamberlain, 2007"
+H. sapiens,Loulan,1265,"Keith, 1929",0.00175,"Keith, 1929"
+H. sapiens,Loulan LT 03,1230,"Keith, 1929",0.00175,"Keith, 1929"
+H. sapiens,Niya,1140,"Keith, 1929",0.0017,"Keith, 1929"
+H. sapiens,Bambandyanalo,1316.8,"Galloway, 1959",0.00106,"Galloway, 1959"
+H. sapiens,Bambandyanalo,1563,"Galloway, 1959",0.00106,"Galloway, 1959"
+H. sapiens,Bambandyanalo,1402.7,"Galloway, 1959",0.00106,"Galloway, 1959"
+H. sapiens,Bambandyanalo,1565.1,"Galloway, 1959",0.00106,"Galloway, 1959"
+H. sapiens,Bambandyanalo,1341.6,"Galloway, 1959",0.00106,"Galloway, 1959"
+H. sapiens,Bambandyanalo,1280,"Galloway, 1959",0.00106,"Galloway, 1959"
+H. sapiens,Bambandyanalo,1384.5,"Galloway, 1959",0.00106,"Galloway, 1959"
+H. sapiens,Pecos,1300,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1030,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1275,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1300,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1120,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1380,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1380,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1270,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1100,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1465,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1320,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1285,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1350,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1440,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1410,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1350,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1190,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1300,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1390,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1350,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1140,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1155,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1178,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1340,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1500,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1550,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1400,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1350,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Pecos,1325,"Ruff et al., 1997",0.001,"Ruff et al., 1997"
+H. sapiens,Mupungubue,1591,"Galloway, 1937",0.001,"Galloway, 1959"
+H. sapiens,Dias Negress,1535,"Winkler & Holler, 1988",0.00099,"Winkler & Holler, 1988"
+H. sapiens,Bristol 1,1526,"Bedde, 1907",0.00075,"Bedde, 1907"
+H. sapiens,Bristol 2,1859,"Bedde, 1907",0.00075,"Bedde, 1907"
+H. sapiens,Bristol 3,1381,"Bedde, 1907",0.00075,"Bedde, 1907"
+H. sapiens,Bristol 4,1608,"Bedde, 1907",0.00075,"Bedde, 1907"
+H. sapiens,Bristol 7,1390,"Bedde, 1907",0.00075,"Bedde, 1907"
+H. sapiens,Bristol 9,1422,"Bedde, 1907",0.00075,"Bedde, 1907"
+H. sapiens,Bristol 10,1688,"Bedde, 1907",0.00075,"Bedde, 1907"
+H. sapiens,Bristol 11,1655,"Bedde, 1907",0.00075,"Bedde, 1907"
+H. sapiens,Paderborne,1541,"Ruff et al., 1997",0.00025,FORGERY
+H. sapiens,Cape Flats,1230,"Drennen, 1929",0.00015,"Dusseldorp et al., 2013"
+H. sapiens,Murray Valley Aborigines,996,Brown,0.0001,Brown
+H. sapiens,Spialfields,1005,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1020,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1039,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1039,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1039,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1047,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1050,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1050,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1055,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1055,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1056,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1062,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1065,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1065,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1070,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1075,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1077,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1080,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1092,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1100,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1100,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1100,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1105,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1115,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1115,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1120,Brown,0.0001,Brown
+H. sapiens,Spialfields,1120,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1122,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1122,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1122,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1130,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1130,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1132,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1138,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1138,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1140,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1140,Brown,0.0001,Brown
+H. sapiens,N. China,1140,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1142,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1145,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1145,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1145,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1148,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1148,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1152,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1153,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1153,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1153,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1153,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1155,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1156,Brown,0.0001,Brown
+H. sapiens,Spialfields,1160,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1162,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1163,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1165,Brown,0.0001,Brown
+H. sapiens,Spialfields,1165,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1168,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1175,Brown,0.0001,Brown
+H. sapiens,Spialfields,1175,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1180,Brown,0.0001,Brown
+H. sapiens,Spialfields,1180,Brown,0.0001,Brown
+H. sapiens,Spialfields,1180,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1183,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1183,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1185,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1185,Brown,0.0001,Brown
+H. sapiens,China,1188,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1189,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1190,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1190,Brown,0.0001,Brown
+H. sapiens,Spialfields,1190,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1193,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1194,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1195,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1195,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1195,Brown,0.0001,Brown
+H. sapiens,Spialfields,1195,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1198,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1200,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1200,Brown,0.0001,Brown
+H. sapiens,N. China,1200,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1203,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1206,Brown,0.0001,Brown
+H. sapiens,China,1207,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1210,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1215,Brown,0.0001,Brown
+H. sapiens,Spialfields,1215,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1225,Brown,0.0001,Brown
+H. sapiens,Spialfields,1225,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1226,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1228,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1230,Brown,0.0001,Brown
+H. sapiens,China,1230,Brown,0.0001,Brown
+H. sapiens,China,1230,Brown,0.0001,Brown
+H. sapiens,Spialfields,1230,Brown,0.0001,Brown
+H. sapiens,Spialfields,1230,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1235,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1235,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1235,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1235,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1235,Brown,0.0001,Brown
+H. sapiens,China,1236,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1240,Brown,0.0001,Brown
+H. sapiens,N. China,1240,Brown,0.0001,Brown
+H. sapiens,Spialfields,1240,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1243,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1245,Brown,0.0001,Brown
+H. sapiens,Spialfields,1250,Brown,0.0001,Brown
+H. sapiens,Spialfields,1250,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1251,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1251,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1257,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1257,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1259,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1260,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1260,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1260,Brown,0.0001,Brown
+H. sapiens,Spialfields,1260,Brown,0.0001,Brown
+H. sapiens,Spialfields,1260,Brown,0.0001,Brown
+H. sapiens,N. China,1262,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1266,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1266,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1267,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1269,Brown,0.0001,Brown
+H. sapiens,Spialfields,1270,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1272,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1273,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1274,Brown,0.0001,Brown
+H. sapiens,China,1274,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1275,Brown,0.0001,Brown
+H. sapiens,China,1279,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1280,Brown,0.0001,Brown
+H. sapiens,N. China,1280,Brown,0.0001,Brown
+H. sapiens,N. China,1280,Brown,0.0001,Brown
+H. sapiens,N. China,1280,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1281,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1282,Brown,0.0001,Brown
+H. sapiens,China,1287,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1290,Brown,0.0001,Brown
+H. sapiens,N. China,1290,Brown,0.0001,Brown
+H. sapiens,Spialfields,1290,Brown,0.0001,Brown
+H. sapiens,China,1291,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1292,Brown,0.0001,Brown
+H. sapiens,China,1294,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1295,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1295,Brown,0.0001,Brown
+H. sapiens,China,1299,Brown,0.0001,Brown
+H. sapiens,N. China,1299,Brown,0.0001,Brown
+H. sapiens,N. China,1300,Brown,0.0001,Brown
+H. sapiens,N. China,1300,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1302,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1302,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1304,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1305,Brown,0.0001,Brown
+H. sapiens,China,1305,Brown,0.0001,Brown
+H. sapiens,China,1305,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1306,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1306,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1310,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1310,Brown,0.0001,Brown
+H. sapiens,Spialfields,1310,Brown,0.0001,Brown
+H. sapiens,Spialfields,1310,Brown,0.0001,Brown
+H. sapiens,China,1313,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1314,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1315,Brown,0.0001,Brown
+H. sapiens,N. China,1320,Brown,0.0001,Brown
+H. sapiens,Spialfields,1320,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1325,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1325,Brown,0.0001,Brown
+H. sapiens,N. China,1326,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1330,Brown,0.0001,Brown
+H. sapiens,N. China,1330,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1335,Brown,0.0001,Brown
+H. sapiens,China,1335,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1337,Brown,0.0001,Brown
+H. sapiens,China,1337,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1340,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1340,Brown,0.0001,Brown
+H. sapiens,China,1340,Brown,0.0001,Brown
+H. sapiens,N. China,1340,Brown,0.0001,Brown
+H. sapiens,N. China,1340,Brown,0.0001,Brown
+H. sapiens,Spialfields,1340,Brown,0.0001,Brown
+H. sapiens,Spialfields,1340,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1341,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1345,Brown,0.0001,Brown
+H. sapiens,Spialfields,1350,Brown,0.0001,Brown
+H. sapiens,Spialfields,1350,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1358,Brown,0.0001,Brown
+H. sapiens,N. China,1359,Brown,0.0001,Brown
+H. sapiens,N. China,1360,Brown,0.0001,Brown
+H. sapiens,N. China,1360,Brown,0.0001,Brown
+H. sapiens,Spialfields,1360,Brown,0.0001,Brown
+H. sapiens,Spialfields,1360,Brown,0.0001,Brown
+H. sapiens,Spialfields,1360,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1361,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1361,Brown,0.0001,Brown
+H. sapiens,China,1361,Brown,0.0001,Brown
+H. sapiens,China,1361,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1365,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1369,Brown,0.0001,Brown
+H. sapiens,N. China,1372,Brown,0.0001,Brown
+H. sapiens,China,1376,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1377,Brown,0.0001,Brown
+H. sapiens,Spialfields,1380,Brown,0.0001,Brown
+H. sapiens,China,1388,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1389,Brown,0.0001,Brown
+H. sapiens,China,1389,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1390,Brown,0.0001,Brown
+H. sapiens,N. China,1390,Brown,0.0001,Brown
+H. sapiens,N. China,1390,Brown,0.0001,Brown
+H. sapiens,Spialfields,1390,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1398,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1400,Brown,0.0001,Brown
+H. sapiens,China,1404,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1405,Brown,0.0001,Brown
+H. sapiens,China,1408,Brown,0.0001,Brown
+H. sapiens,N. China,1410,Brown,0.0001,Brown
+H. sapiens,Spialfields,1410,Brown,0.0001,Brown
+H. sapiens,N. China,1420,Brown,0.0001,Brown
+H. sapiens,N. China,1420,Brown,0.0001,Brown
+H. sapiens,Spialfields,1420,Brown,0.0001,Brown
+H. sapiens,China,1426,Brown,0.0001,Brown
+H. sapiens,China,1429,Brown,0.0001,Brown
+H. sapiens,China,1430,Brown,0.0001,Brown
+H. sapiens,Murray Valley Aborigines,1432,Brown,0.0001,Brown
+H. sapiens,N. China,1440,Brown,0.0001,Brown
+H. sapiens,N. China,1440,Brown,0.0001,Brown
+H. sapiens,N. China,1440,Brown,0.0001,Brown
+H. sapiens,Spialfields,1440,Brown,0.0001,Brown
+H. sapiens,N. China,1448,Brown,0.0001,Brown
+H. sapiens,N. China,1450,Brown,0.0001,Brown
+H. sapiens,China,1452,Brown,0.0001,Brown
+H. sapiens,N. China,1452,Brown,0.0001,Brown
+H. sapiens,N. China,1453,Brown,0.0001,Brown
+H. sapiens,Spialfields,1455,Brown,0.0001,Brown
+H. sapiens,China,1458,Brown,0.0001,Brown
+H. sapiens,N. China,1460,Brown,0.0001,Brown
+H. sapiens,N. China,1460,Brown,0.0001,Brown
+H. sapiens,Spialfields,1460,Brown,0.0001,Brown
+H. sapiens,China,1467,Brown,0.0001,Brown
+H. sapiens,China,1474,Brown,0.0001,Brown
+H. sapiens,Spialfields,1475,Brown,0.0001,Brown
+H. sapiens,China,1482,Brown,0.0001,Brown
+H. sapiens,N. China,1490,Brown,0.0001,Brown
+H. sapiens,China,1496,Brown,0.0001,Brown
+H. sapiens,China,1503,Brown,0.0001,Brown
+H. sapiens,China,1508,Brown,0.0001,Brown
+H. sapiens,China,1512,Brown,0.0001,Brown
+H. sapiens,China,1516,Brown,0.0001,Brown
+H. sapiens,China,1528,Brown,0.0001,Brown
+H. sapiens,China,1532,Brown,0.0001,Brown
+H. sapiens,Swanport Aborigines,1535,Brown,0.0001,Brown
+H. sapiens,China,1537,Brown,0.0001,Brown
+H. sapiens,N. China,1540,Brown,0.0001,Brown
+H. sapiens,Spialfields,1565,Brown,0.0001,Brown
+H. sapiens,China,1571,Brown,0.0001,Brown
+H. sapiens,China,1575,Brown,0.0001,Brown
+H. sapiens,China,1575,Brown,0.0001,Brown
+H. sapiens,China,1577,Brown,0.0001,Brown
+H. sapiens,N. China,1600,Brown,0.0001,Brown
+H. sapiens,China,1605,Brown,0.0001,Brown
+H. sapiens,China,1608,Brown,0.0001,Brown
+H. sapiens,China,1612,Brown,0.0001,Brown
+H. sapiens,China,1619,Brown,0.0001,Brown
+H. sapiens,China,1622,Brown,0.0001,Brown
+H. sapiens,China,1632,Brown,0.0001,Brown
+H. sapiens,China,1675,Brown,0.0001,Brown
+H. sapiens,China,1682,Brown,0.0001,Brown
+H. sapiens,China,1695,Brown,0.0001,Brown
+H. sapiens,China,1776,Brown,0.0001,Brown
+H. sapiens,Morton,1297,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1381,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1165,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1347,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1229,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1640,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1168,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1237,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1284,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1150,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1251,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1266,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1520,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1256,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1143,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1401,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1064,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1515,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1197,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1462,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1482,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1425,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1285,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1346,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1348,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1543,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1336,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1344,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1406,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1239,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1319,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1326,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1183,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,985,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1386,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1454,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1180,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1188,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1380,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1249,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1111,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1179,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1110,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1245,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1051,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1167,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1235,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1196,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1351,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1345,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1372,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1226,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1234,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1168,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1376,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1254,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1320,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1305,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1376,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1526,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1428,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1363,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1257,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1786,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1442,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1420,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1068,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1308,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1305,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1197,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1234,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1457,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1316,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1167,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1192,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1295,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1376,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1293,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1197,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1143,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1334,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,985,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1486,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1428,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1179,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1472,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1504,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1411,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1271,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1437,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1344,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1337,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1295,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1187,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1348,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1385,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1074,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1187,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1525,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1523,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1405,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1296,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1404,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1325,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1510,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1191,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1529,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1346,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1202,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1175,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1589,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1345,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1528,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1369,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1114,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,907,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1392,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1372,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1377,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1454,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1404,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1402,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1415,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1243,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1251,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1109,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1236,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1187,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1401,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1315,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1234,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1464,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1184,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1299,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1249,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1079,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1263,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1066,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1288,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1261,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1488,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1323,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1202,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1392,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1203,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1157,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1174,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1114,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1242,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1232,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1266,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1531,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1452,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1352,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1408,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1093,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1539,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1413,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1313,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1388,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1302,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1448,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1175,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1186,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1293,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1252,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1299,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1354,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1404,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1225,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1393,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1156,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1299,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1203,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1262,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1354,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1361,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1236,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1289,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1412,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1402,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1352,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1304,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1459,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1370,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1191,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1333,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1345,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1370,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1209,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1213,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1323,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1372,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1469,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1522,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1435,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1220,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1117,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1395,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1022,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1195,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1330,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1294,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1359,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1416,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1203,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1216,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1292,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1326,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1340,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1421,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1473,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1372,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1414,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1407,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1270,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1320,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1450,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1478,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1402,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1104,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1071,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1421,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1638,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1515,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1330,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1443,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1499,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1331,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1433,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1633,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1429,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1484,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1345,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1267,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1242,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1194,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1260,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1344,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1465,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1308,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1269,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1183,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1268,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1098,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1511,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1156,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1045,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1351,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1286,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1313,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1161,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1254,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1152,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1292,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1389,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1130,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1133,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1303,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1308,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1437,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1382,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1380,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1366,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1297,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1542,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1498,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1168,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1517,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1239,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1344,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1337,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1191,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1195,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1192,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1300,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1158,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1383,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1022,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1273,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1229,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,937,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1370,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1164,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1197,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1095,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1196,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1160,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1351,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1049,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1372,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1216,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1130,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1109,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1321,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1007,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1213,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1314,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1355,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1236,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1310,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1229,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1266,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1324,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1053,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1183,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
+H. sapiens,Morton,1298,"Lewis et al., 2011",0.0001,"Lewis et al., 2011"
